@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application and Web Development
 - 🌱 I’m currently learning BS in Computer Science
 - 📫 How to reach me through my email account "gacetaerick124@gmail.com"
-- 😄 Pronouns: He/His?him
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Nah
 
 <!---
