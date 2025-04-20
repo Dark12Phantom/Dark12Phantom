@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dark12Phantom
+- 👋 Hi, I’m @Dark12Phantom, though that's my IGN. Real name's Erick Gaceta
 - 👀 I’m interested in Application and Web Development
 - 🌱 I’m currently learning BS in Computer Science
-- 📫 How to reach me through my email account "gacetaerick124@gmail.com"
+- 📫 Reach me through my email account "gacetaerick124@gmail.com"
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Nah
 
